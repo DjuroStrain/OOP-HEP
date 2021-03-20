@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Racun ID="51" brojRacuna="1278" sifraKupca="JK76WD" ukupanIznos="40000" datum="27.05.2020" stornirano="ne"/>
+    <Racun ID="61" brojRacuna="1284" sifraKupca="ADID12" ukupanIznos="5000" datum="03.06.2020" stornirano="ne"/>
+    <Racun ID="21" brojRacuna="4185" sifraKupca="509CV1" ukupanIznos="7500" datum="04.06.2020" stornirano="ne"/>
+    <Racun ID="17" brojRacuna="2288" sifraKupca="KCF59S" ukupanIznos="4500" datum="15.06.2020" stornirano="ne"/>
+    <Racun ID="64" brojRacuna="4657" sifraKupca="ADID12" ukupanIznos="2500" datum="03.06.2020" stornirano="ne"/>
+    <Racun ID="22" brojRacuna="4561" sifraKupca="12KOP8" ukupanIznos="40500" datum="05.06.2020" stornirano="ne"/>
+    <Racun ID="66" brojRacuna="9173" sifraKupca="D1E2V3" ukupanIznos="21000" datum="05.06.2020" stornirano="ne"/>
+    <Racun ID="283" brojRacuna="5418" sifraKupca="12KOP8" ukupanIznos="950" datum="23.06.2020" stornirano="da"/>
+    <Racun ID="23" brojRacuna="5142" sifraKupca="509CV1" ukupanIznos="450000" datum="06.06.2020" stornirano="ne"/>
+    <Racun ID="65" brojRacuna="2145" sifraKupca="JK76WD" ukupanIznos="20000" datum="20.06.2020" stornirano="ne"/>
+    <Racun ID="60" brojRacuna="2156" sifraKupca="ADID12" ukupanIznos="2500" datum="20.06.2020" stornirano="ne"/>
+    <Racun ID="84" brojRacuna="5149" sifraKupca="HG567F" ukupanIznos="2600" datum="20.06.2020" stornirano="ne"/>
+</dataset>

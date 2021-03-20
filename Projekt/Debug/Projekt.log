@@ -1,0 +1,3 @@
+﻿  Projekt.cpp
+C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Projekt\Projekt.cpp(418,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Projekt.vcxproj -> C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Debug\Projekt.exe

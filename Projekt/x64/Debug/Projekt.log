@@ -1,0 +1,10 @@
+﻿  Projekt.cpp
+C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Projekt\TextTable.h(113,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Projekt\TextTable.h(122,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Projekt\Projekt.cpp(927,6): warning C4101: 'brojac': unreferenced local variable
+C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\Projekt\Projekt.cpp(1316,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Projekt.vcxproj -> C:\Users\38599\Desktop\Faks\2.semestar\OOP\OOP - HEP\x64\Debug\Projekt.exe

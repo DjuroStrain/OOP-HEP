@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <Artikl sifra="A3F5" naziv="niska tarifa" cijena="50"   ></Artikl>
+  <Artikl sifra ="KLQ2" naziv="visoka tarifa" cijena="100" ></Artikl>
+  <Artikl sifra ="223J" naziv="industrijska potrosnja tip 1" cijena ="500"  ></Artikl>
+  <Artikl sifra ="51KP" naziv="industrijska potrosnja tip 2" cijena ="1000"  ></Artikl>
+</dataset>

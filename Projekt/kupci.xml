@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Kupac ime="Djuro" prezime="Belacic" grad="Daruvar" adresa="Ulica Ljudevita Gaja 2" sifraKupca="D1E2V3" sifraBrojila="9696"/>
+    <Kupac ime="Oliver" prezime="Romic" grad="Kutina" adresa="Vinogradska 66" sifraKupca="509CV1" sifraBrojila="5579"/>
+    <Kupac ime="Nikola" prezime="Kojo" grad="Virovitica" adresa="Trg Stjepana Radica 1" sifraKupca="JK76WD" sifraBrojila="5147"/>
+    <Kupac ime="Matija" prezime="Mikic" grad="Slatina" adresa="Ulica hrvatskih branitelja 87" sifraKupca="12KOP8" sifraBrojila="1199"/>
+    <Kupac ime="Dominik" prezime="Bozic" grad="Koprivnica" adresa="Ulica Nikole Tesle 23" sifraKupca="KCF59S" sifraBrojila="4135"/>
+    <Kupac ime="Dennis" prezime="Jandric" grad="Popovaca" adresa="Kolodvorska 2" sifraKupca="ADID12" sifraBrojila="2218"/>
+    <Kupac ime="Luka" prezime="Makic" grad="Osijek" adresa="Ulica Ljudevita Gaja 23" sifraKupca="HG567F" sifraBrojila="5418"/>
+</dataset>

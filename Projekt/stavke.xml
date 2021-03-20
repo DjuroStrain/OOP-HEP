@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <Stavka ID="51" sifra="223J" naziv="industrijska potrosnja tip 1" cijena="500" kolicina="80" brojRacuna="1278" ukupanIznos="40000"/>
+    <Stavka ID="61" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="100" brojRacuna="1284" ukupanIznos="5000"/>
+    <Stavka ID="21" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="150" brojRacuna="4185" ukupanIznos="7500"/>
+    <Stavka ID="17" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="90" brojRacuna="2288" ukupanIznos="4500"/>
+    <Stavka ID="64" sifra="KLQ2" naziv="visoka tarifa" cijena="100" kolicina="25" brojRacuna="4657" ukupanIznos="2500"/>
+    <Stavka ID="22" sifra="223J" naziv="industrijska potrosnja tip 1" cijena="500" kolicina="81" brojRacuna="4561" ukupanIznos="40500"/>
+    <Stavka ID="66" sifra="51KP" naziv="industrijska potrosnja tip 2" cijena="1000" kolicina="21" brojRacuna="9173" ukupanIznos="21000"/>
+    <Stavka ID="283" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="19" brojRacuna="5418" ukupanIznos="950"/>
+    <Stavka ID="23" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="9000" brojRacuna="5142" ukupanIznos="450000"/>
+    <Stavka ID="65" sifra="51KP" naziv="industrijska potrosnja tip 2" cijena="1000" kolicina="20" brojRacuna="2145" ukupanIznos="20000"/>
+    <Stavka ID="60" sifra="A3F5" naziv="niska tarifa" cijena="50" kolicina="50" brojRacuna="2156" ukupanIznos="2500"/>
+    <Stavka ID="84" sifra="KLQ2" naziv="visoka tarifa" cijena="100" kolicina="26" brojRacuna="5149" ukupanIznos="2600"/>
+</dataset>
